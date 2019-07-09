@@ -1,2 +1,6 @@
 # AnnoDomini2019
-Modified
+<<<<<<< HEAD
+=======
+	
+EDIT
+>>>>>>> origin/ciprianstiubei
